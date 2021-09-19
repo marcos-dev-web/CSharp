@@ -1,0 +1,14 @@
+C:\Users\marco\source\repos\Tests1\Tests1\bin\Debug\netcoreapp3.1\Tests1.exe
+C:\Users\marco\source\repos\Tests1\Tests1\bin\Debug\netcoreapp3.1\Tests1.deps.json
+C:\Users\marco\source\repos\Tests1\Tests1\bin\Debug\netcoreapp3.1\Tests1.runtimeconfig.json
+C:\Users\marco\source\repos\Tests1\Tests1\bin\Debug\netcoreapp3.1\Tests1.runtimeconfig.dev.json
+C:\Users\marco\source\repos\Tests1\Tests1\bin\Debug\netcoreapp3.1\Tests1.dll
+C:\Users\marco\source\repos\Tests1\Tests1\bin\Debug\netcoreapp3.1\Tests1.pdb
+C:\Users\marco\source\repos\Tests1\Tests1\obj\Debug\netcoreapp3.1\Tests1.csproj.AssemblyReference.cache
+C:\Users\marco\source\repos\Tests1\Tests1\obj\Debug\netcoreapp3.1\Tests1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marco\source\repos\Tests1\Tests1\obj\Debug\netcoreapp3.1\Tests1.AssemblyInfoInputs.cache
+C:\Users\marco\source\repos\Tests1\Tests1\obj\Debug\netcoreapp3.1\Tests1.AssemblyInfo.cs
+C:\Users\marco\source\repos\Tests1\Tests1\obj\Debug\netcoreapp3.1\Tests1.csproj.CoreCompileInputs.cache
+C:\Users\marco\source\repos\Tests1\Tests1\obj\Debug\netcoreapp3.1\Tests1.dll
+C:\Users\marco\source\repos\Tests1\Tests1\obj\Debug\netcoreapp3.1\Tests1.pdb
+C:\Users\marco\source\repos\Tests1\Tests1\obj\Debug\netcoreapp3.1\Tests1.genruntimeconfig.cache
