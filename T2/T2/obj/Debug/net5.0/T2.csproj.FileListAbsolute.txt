@@ -1,0 +1,16 @@
+C:\Users\marco\source\repos\T2\T2\bin\Debug\net5.0\T2.exe
+C:\Users\marco\source\repos\T2\T2\bin\Debug\net5.0\T2.deps.json
+C:\Users\marco\source\repos\T2\T2\bin\Debug\net5.0\T2.runtimeconfig.json
+C:\Users\marco\source\repos\T2\T2\bin\Debug\net5.0\T2.runtimeconfig.dev.json
+C:\Users\marco\source\repos\T2\T2\bin\Debug\net5.0\T2.dll
+C:\Users\marco\source\repos\T2\T2\bin\Debug\net5.0\ref\T2.dll
+C:\Users\marco\source\repos\T2\T2\bin\Debug\net5.0\T2.pdb
+C:\Users\marco\source\repos\T2\T2\obj\Debug\net5.0\T2.csproj.AssemblyReference.cache
+C:\Users\marco\source\repos\T2\T2\obj\Debug\net5.0\T2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marco\source\repos\T2\T2\obj\Debug\net5.0\T2.AssemblyInfoInputs.cache
+C:\Users\marco\source\repos\T2\T2\obj\Debug\net5.0\T2.AssemblyInfo.cs
+C:\Users\marco\source\repos\T2\T2\obj\Debug\net5.0\T2.csproj.CoreCompileInputs.cache
+C:\Users\marco\source\repos\T2\T2\obj\Debug\net5.0\T2.dll
+C:\Users\marco\source\repos\T2\T2\obj\Debug\net5.0\ref\T2.dll
+C:\Users\marco\source\repos\T2\T2\obj\Debug\net5.0\T2.pdb
+C:\Users\marco\source\repos\T2\T2\obj\Debug\net5.0\T2.genruntimeconfig.cache
